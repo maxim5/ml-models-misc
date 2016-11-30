@@ -1,1 +1,1 @@
-{'model_size': 309347, 'test_accuracy': 0.752400, 'validation_accuracy': 0.767200}
+{'model_size': 309347, 'test_accuracy': 0.772900, 'validation_accuracy': 0.791200}
